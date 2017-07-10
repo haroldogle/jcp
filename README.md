@@ -5,7 +5,7 @@
 </tr>
 </table>
 
-This is the public project for general discussions about JCP program. 
+This is the public project for general discussions about JCP program. We use the issue tracker primarily to indicate when JSRs have submitted materials for milestone postings, and to track the progress of those postings.
 
 * We use the <a href="https://github.com/jcp-org/jcp/issues">issue tracker</a> to record your comments and track issues.
 
